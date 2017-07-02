@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys, re, random
 
-__author__  = "Jeff White [karttoon]"
+__author__  = "Jeff White [karttoon] @noottrak"
 __email__   = "karttoon@gmail.com"
 __version__ = "1.0.0"
 __date__    = "04MAR2017"
